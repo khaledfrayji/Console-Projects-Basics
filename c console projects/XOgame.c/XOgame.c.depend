@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1681164460 source:c:\users\khale\onedrive\desktop\c projects\xogame.c\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<MMsystem.h>
+
